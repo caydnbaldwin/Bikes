@@ -8,6 +8,6 @@ Sub `Bikes` generates a sentence output for each data batch input. It concatanat
 This program offers an automated method for calculating interpretable data from a massive dataset utilizing VBA.
 
 ## Download and Run
-1) Download `Bikes.xlsm`
+1) Download [Bikes.xlsm](https://github.com/caydnbaldwin/Bikes/archive/refs/heads/main.zip)
 2) Enable macros
 3) Click `Run` button
